@@ -1,0 +1,1 @@
+CREATE TABLE attendence_empoloyee_data(id INT PRIMARY KEY AUTO_INCREMENT,NAME VARCHAR(50),DATE VARCHAR(50),attendence VARCHAR(50)attendence_empoloyee_data);

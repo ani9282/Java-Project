@@ -1,0 +1,11 @@
+1)emp registration
+
+create table empregistration(id int primary key auto_increment,username varchar(50),address varchar(200),mobile varchar(12),email varchar(100),password varchar(50),dob varchar(50),position varchar(50));
+
+2) client registration
+
+create table empregistration(id int primary key auto_increment,name varchar(50),address varchar(200),mobile varchar(12),password varchar(50),dob varchar(50),firm_name varchar(50),pancard_number varchar(50),firm_type varchar(50),status varchar(50));
+
+3)assign_task
+create table assign_task(id int primary key auto_increment,name varchar(50),date varchar(50),time varchar(50),task varchar(5000),status varchar(50));
+
